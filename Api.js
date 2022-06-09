@@ -62,6 +62,5 @@ export default class Api {
 
   }
 }
-console.log(Api.topAnime())
 
 Api.createElement()
